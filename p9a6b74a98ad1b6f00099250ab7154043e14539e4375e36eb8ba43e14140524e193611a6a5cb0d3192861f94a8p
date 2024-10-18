@@ -356,13 +356,33 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 ============================================================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnYfPFgm/transtv.jpg" group-title="NASIONAL", TRANS TV (T)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="NASIONAL 2",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="NASIONAL 2",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="NASIONAL 2",MNCTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="NASIONAL 2",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnYfPFgm/transtv.jpg" group-title="NASIONAL 2", TRANS TV (T)
 https://raw.githubusercontent.com/AlbasAlka/Streams/Master/dens/transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM73DBZb/trans7.jpg" group-title="NASIONAL", TRANS 7 (T)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM73DBZb/trans7.jpg" group-title="NASIONAL 2", TRANS 7 (T)
 https://raw.githubusercontent.com/AlbasAlka/Streams/Master/dens/trans7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L85msYGS/rtv.jpg" group-title="NASIONAL", RTV (T)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L85msYGS/rtv.jpg" group-title="NASIONAL 2", RTV (D)
 https://raw.githubusercontent.com/AlbasAlka/Streams/Master/dens/rtv.m3u8
 
 ============================================================
@@ -1027,6 +1047,32 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1a/Galatasaray_TV.svg/2560px-Galatasaray_TV.svg.png" group-title="SPORTS", Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 
+
+
+
+<============================== ASTRO ======================================>
+
+
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="SPORTS",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="SPORTS",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="SPORTS",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="SPORTS",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
 
 
 

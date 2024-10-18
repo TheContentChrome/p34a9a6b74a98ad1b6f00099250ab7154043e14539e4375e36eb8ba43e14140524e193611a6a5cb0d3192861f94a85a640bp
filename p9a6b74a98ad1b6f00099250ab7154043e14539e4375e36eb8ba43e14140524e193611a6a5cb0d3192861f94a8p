@@ -2120,9 +2120,6 @@ http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lQj3XFRNauA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYShIMA8=&rs=AOn4CLDtccSyL2sMWR7WFp2wA55wJqqDag" group-title="DAERAH",Batu TV
-http://117.103.69.219:8080/live/streaming/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHITGHmuHThOdVkMRS1dF8ZgKvsdpVT7Tn2w&usqp=CAU"  group-title="DAERAH",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
@@ -2247,19 +2244,19 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://i.postimg.cc/Jhz9rF2w/assp.png",Astro SuperSport 1
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352087
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://i.postimg.cc/X7MSfQpF/assp2.png",Astro SuperSport 2
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352088
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://i.postimg.cc/PrmG2Yw7/assp3.png",Astro SuperSport 3
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352089
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://i.postimg.cc/JnvwdQxf/assp4.png",Astro SuperSport 4
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352090
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport5.my" tvg-chno="" tvg-logo="https://i.postimg.cc/8cv88rnj/assp5.png",Astro SuperSport 5
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/352091
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="SPORTS",ASTRO CRICKET

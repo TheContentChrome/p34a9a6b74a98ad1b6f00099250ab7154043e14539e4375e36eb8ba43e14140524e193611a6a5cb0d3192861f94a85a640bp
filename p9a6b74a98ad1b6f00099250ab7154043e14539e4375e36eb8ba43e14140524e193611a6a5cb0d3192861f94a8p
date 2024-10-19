@@ -389,6 +389,10 @@ https://raw.githubusercontent.com/AlbasAlka/Streams/Master/dens/rtv.m3u8
 ============================================================
 
 
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.postimg.cc/0yyrGWJZ/nusantaratv.jpg" group-title="NASIONAL",Nusantara TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rppWmyJV/cnnindo.png" group-title="NASIONAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
 
@@ -2229,73 +2233,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 
 
-########ASTRO#######
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://i.postimg.cc/Jhz9rF2w/assp.png",Astro SuperSport 1
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://i.postimg.cc/X7MSfQpF/assp2.png",Astro SuperSport 2
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://i.postimg.cc/PrmG2Yw7/assp3.png",Astro SuperSport 3
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://i.postimg.cc/JnvwdQxf/assp4.png",Astro SuperSport 4
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport5.my" tvg-chno="" tvg-logo="https://i.postimg.cc/8cv88rnj/assp5.png",Astro SuperSport 5
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="SPORTS",ASTRO CRICKET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="SPORTS",ASTRO CRICKET 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/259gVxs1/Astro-Cricket.png" group-title="SPORTS", ASTRO CRICKET (backup)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGY3Stmx/ASTRORUGBYPASSTV.png" group-title="SPORTS", PREMIERSPORTS
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwNNcDT/ASTROPRIMA.png" group-title="ASTRO BOY", ASTRO PRIMA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSs1c9KW/ASTROOASIS.png" group-title="ASTRO BOY", ASTRO OASIS
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYkFh8wD/ASTROWARNA.png" group-title="ASTRO BOY", ASTRO WARNA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XGWc0jc/ASTROVaanavil.jpg" group-title="ASTRO BOY", ASTRO Vaanavil
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1nPLwXJ/ASTROIQIYI.png" group-title="ASTRO BOY", ASTRO IQIYI
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncxSV5Xd/ASTROXIAOTAIYANG.jpg" group-title="ASTRO BOY", ASTRO XIAO TAI YANG
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 351
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFj8TZV9/ASTROAOD3.jpg" group-title="ASTRO BOY", ASTRO AOD 353
-
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/one.png" group-title="ASTRO BOY", ASTRO ONE
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxrBp4V7/Astro-Awani.png" group-title="ASTRO BOY", ASTRO AWANI
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNfWDrB9/ASTROCERIA.png" group-title="ASTRO BOY", ASTRO CERIA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFmnCv5X/Astro-Ria.png" group-title="ASTRO BOY", ASTRO RIA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zXjhq8s/ASTRORANIA.jpg" group-title="ASTRO BOY", ASTRO RANIA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FPSGV35/ASTROAURA.jpg" group-title="ASTRO BOY", ASTRO AURA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QJXr1G4/ASTROStar-Vijay.png" group-title="ASTRO BOY", ASTRO Star Vijay
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsX38M4D/Astro-Vinmeen.png" group-title="ASTRO BOY", Astro Vinmeen
-
-
 
 
 ####LIVE MOVIE#####
@@ -2908,12 +2845,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/665/665-LOGO-m.png" group-title="RELIGI",Life (V+🟦)
 https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
 
 
 

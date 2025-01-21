@@ -664,34 +664,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 
 
- ================================
-
-
-#EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/c986ec85a004f80.png" group-title="RELIGI", Makkah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/c986ec85a004f80.png" group-title="RELIGI", Makkah Live
-http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
-
-
-=================DAERAH=================
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHITGHmuHThOdVkMRS1dF8ZgKvsdpVT7Tn2w&usqp=CAU"  group-title="DAERAH",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Hr8OImIEmeY/YJVhc5RkRAI/AAAAAAAAEdA/fICHBf3RyisxIao5ngBUO28q8JKaESi1QCLcBGAsYHQ/s720/jitv-p.png" group-title="DAERAH", JITV Yogyakarta
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUzMo7kYHhc/YJVhklv7-1I/AAAAAAAAEeo/iS_wS7eFCs4Yke5VneBiK3TaBCickAb3ACLcBGAsYHQ/s720/tvku-p.png" group-title="DAERAH", TVKU Semarang
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q-xyUn6zjEg/YJVhhBXQR3I/AAAAAAAAEd4/HSidxsrlv5wsc71O0Vx7ROFCn-gF1S3MQCLcBGAsYHQ/s720/rctvcirebon-p.png" group-title="DAERAH",Radar Cirebon TV
-https://v10.siar.us/rctv/live/playlist.m3u8
-
-
-
 <=========================================== TVRI Group =========================================>
 
 #EXTM3U
